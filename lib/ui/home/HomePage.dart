@@ -10,9 +10,6 @@ class HomePage extends StatelessWidget {
         children: <Widget>[
           GradientAppBar("xmobe"),
           HomePageBody(),
-          HomePageBody(),
-          HomePageBody(),
-          HomePageBody(),
         ],
       ),
     );
